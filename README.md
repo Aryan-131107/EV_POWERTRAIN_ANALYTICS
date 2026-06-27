@@ -28,7 +28,7 @@ Horizontal boxplot analysis sorted by median dimensional features (`length_mm`) 
 ## 📊 Sample Visualizations
 *(Below are examples of structural feature tracking plots generated during EDA)*
 
-| Structural Dimensionality Matrix | Parametric Feature Interactions |
+| HeavyDuty Barplot | Parametric Feature Interactions |
 | :---: | :---: |
 | ![Body type Barplot with Heavyduty Bracket ](barplot.png) | ![Correlation Heatmap](correlation_heat_map.png) |
 
